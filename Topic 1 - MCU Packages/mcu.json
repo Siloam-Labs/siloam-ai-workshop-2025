@@ -1,0 +1,446 @@
+[
+    {
+        "id": "50924",
+        "name": "Siloam Silver Package",
+        "description": "<p>Basic examinations that must be routinely checked include complete blood count, liver function, kidney function, uric acid, blood sugar, heart, lungs, plus abdominal ultrasound.</p>\n<p style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">&nbsp;</p>\n<p style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\"><strong>To order multiple packages of the same product:</strong></p>\n<ol>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Add Item to cart</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Click 'Set Up Reservation' button, view the selected products, and click your name.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"6:1-6:57\">On the 'Choose Patient' page, select the name of another patient who has been registered, or click 'Add New Patient'.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"7:1-7:73\">You can add any number of patients, as needed.</li>\n</ol>",
+        "price": 1900000
+    },
+    {
+        "id": "15042090",
+        "name": "Stroke Basic Screening Package",
+        "description": "<p>Examination carried out to determine risk factors for stroke and screen for abnormalities/disorders in brain tissue.</p>",
+        "price": 1500000
+    },
+    {
+        "id": "50923",
+        "name": "Siloam Ruby Package",
+        "description": "<p>Basic examination to check routinely, including full blood count, liver function, kidney function, uric acid, cholesterol profile, fasting glucose, heart, and lungs examination.</p>\n<p data-sourcepos=\"3:1-3:52\"><strong>To order multiple packages of the same product:</strong></p>\n<ol>\n<li data-sourcepos=\"3:1-3:52\">Add Item to cart</li>\n<li data-sourcepos=\"3:1-3:52\">Click 'Set Up Reservation' button, view the selected products, and click your name.</li>\n<li data-sourcepos=\"6:1-6:57\">On the 'Choose Patient' page, select the name of another patient who has been registered, or click 'Add New Patient'.</li>\n<li data-sourcepos=\"7:1-7:73\">You can add any number of patients, as needed.</li>\n</ol>\n<p>The price of your MCU already includes consultation services for the results through the <em>24-Hour Doctor Chat</em>&nbsp;on the MySiloam app&nbsp;or through the official Siloam Teleconsultation WhatsApp number +62 852 1601 8181&nbsp;(<em>WhatsApp Only</em>), available Monday - Saturday, 8 AM - 10 PM. As part of this health check-up package, patients get one (1x) consultation to read the medical check-up results with a general practitioner via telechat.</p>",
+        "price": 1000000
+    },
+    {
+        "id": "15042091",
+        "name": "Advance Stroke Screening Package",
+        "description": "<p>Examination carried out to determine risk factors for stroke and screen for abnormalities/disorders in brain tissue.</p>",
+        "price": 4200000
+    },
+    {
+        "id": "50925",
+        "name": "Siloam Pearl Package",
+        "description": "<p>Basic examinations that must be routinely checked include: complete blood count, liver function, kidney function, uric acid, blood sugar, heart and lungs. This examination also includes abdominal ultrasound, complete heart examination, HbA1c (average blood sugar for the last 3 months), and Hepatitis C.</p>\n<p style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\"><strong>To order multiple packages of the same product:</strong></p>\n<ol>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Add Item to cart</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Click 'Set Up Reservation' button, view the selected products, and click your name.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"6:1-6:57\">On the 'Choose Patient' page, select the name of another patient who has been registered, or click 'Add New Patient'.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"7:1-7:73\">You can add any number of patients, as needed.</li>\n</ol>",
+        "price": 4300000
+    },
+    {
+        "id": "15042092",
+        "name": "Stroke Complete Screening Package",
+        "description": "<p>Examination carried out to determine risk factors for stroke and screen for abnormalities/disorders in brain tissue.</p>",
+        "price": 8400000
+    },
+    {
+        "id": "4082",
+        "name": "TBC Screening for Visa - Basic",
+        "description": "<p>Tuberculosis screening package for visa application, such as Korean Visa. This package include physical examination with Medical Check Up Doctor, Chest X-ray and Health Form from country of destination.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 400000
+    },
+    {
+        "id": "6728",
+        "name": "Screening for Runners",
+        "description": "<p>Screening package for those who likes to run, brisk walk, and other similar activities to ensure optimal health benefits, including rontgent of both knees to screen for complications from frequent running</p>",
+        "price": 5200000
+    },
+    {
+        "id": "185",
+        "name": "Heart Health Premium Screening",
+        "description": "<p>Essential heart health Screening recommended by Siloam Hospitals Cardiologist, including ECG, Treadmill Test, Echocardiography, and Doppler Ultrasound of Carotid Artery.</p>\n<p>&nbsp;</p>",
+        "price": 5400000
+    },
+    {
+        "id": "15042028",
+        "name": "Back Office MCU Package",
+        "description": "<p>MCU package for back office position such as Administration, Finance, IT.</p>",
+        "price": 1500000
+    },
+    {
+        "id": "99934",
+        "name": "Brain Check Up",
+        "description": "<p>Basic medical Check-up package to screen for brain and other vital organs in the body, such as the heart. This also includes kidney function, thyroid hormones, and blood panel for cardiac health.</p>\n<p>&nbsp;</p>\n<p>*) Consultation with neurologist or neurosurgeon depends on each hospital's availability</p>\n<p>&nbsp;</p>\n<p style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\"><strong>To order multiple packages of the same product:</strong></p>\n<ol>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Add Item to cart</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Click 'Set Up Reservation' button, view the selected products, and click your name.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"6:1-6:57\">On the 'Choose Patient' page, select the name of another patient who has been registered, or click 'Add New Patient'.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"7:1-7:73\">You can add any number of patients, as needed.</li>\n</ol>",
+        "price": 5000000
+    },
+    {
+        "id": "999",
+        "name": "Brain Check Up Plus+ Package",
+        "description": "<p>Comprehensive medical Check-up package to screen for brain and other vital organs in the body, such as the heart. This also includes kidney function, thyroid hormones, and blood panel for cardiac health.</p>\n<p>&nbsp;</p>\n<p>*) Consultation with neurologist or neurosurgeon depends on each hospital's availability</p>\n<p>&nbsp;</p>\n<p style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\"><strong>To order multiple packages of the same product:</strong></p>\n<ol>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Add Item to cart</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Click 'Set Up Reservation' button, view the selected products, and click your name.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"6:1-6:57\">On the 'Choose Patient' page, select the name of another patient who has been registered, or click 'Add New Patient'.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"7:1-7:73\">You can add any number of patients, as needed.</li>\n</ol>",
+        "price": 10900000
+    },
+    {
+        "id": "90006",
+        "name": "Complete Vitamin D Screening",
+        "description": "<p>Complete screening vitamin and nutrient screening, to detect level of vitamin D, uric acid, and cholesterol. Package include consultation with internal medicine specialist or nutritionist.</p>",
+        "price": 1100000
+    },
+    {
+        "id": "15042027",
+        "name": "Corporate Driver MCU Package",
+        "description": "<p>MCU package for Corporate Driver position.</p>\n<p>The price of your MCU already includes consultation services for the results through the <em>24-Hour Doctor Chat</em>&nbsp;on the MySiloam app&nbsp;or through the official Siloam Teleconsultation WhatsApp number +62 852 1601 8181&nbsp;(<em>WhatsApp Only</em>), available Monday - Saturday, 8 AM - 10 PM. As part of this health check-up package, patients get one (1x) consultation to read the medical check-up results with a general practitioner via telechat.</p>",
+        "price": 1350000
+    },
+    {
+        "id": "15042031",
+        "name": "Diver MCU Package",
+        "description": "<p>MCU package for Diver position.</p>\n<p>The price of your MCU already includes consultation services for the results through the <em>24-Hour Doctor Chat</em>&nbsp;on the MySiloam app&nbsp;or through the official Siloam Teleconsultation WhatsApp number +62 852 1601 8181&nbsp;(<em>WhatsApp Only</em>), available Monday - Saturday, 8 AM - 10 PM. As part of this health check-up package, patients get one (1x) consultation to read the medical check-up results with a general practitioner via telechat.</p>",
+        "price": 1100000
+    },
+    {
+        "id": "15042030",
+        "name": "Food Handler MCU Package",
+        "description": "<p>MCU package for Food Handler position.</p>\n<p>The price of your MCU already includes consultation services for the results through the <em>24-Hour Doctor Chat</em>&nbsp;on the MySiloam app&nbsp;or through the official Siloam Teleconsultation WhatsApp number +62 852 1601 8181&nbsp;(<em>WhatsApp Only</em>), available Monday - Saturday, 8 AM - 10 PM. As part of this health check-up package, patients get one (1x) consultation to read the medical check-up results with a general practitioner via telechat.</p>",
+        "price": 1250000
+    },
+    {
+        "id": "67504",
+        "name": "KIDS - Wellness MCU Age 3 to 5 Years",
+        "description": "<p><span style=\"color: rgb(47, 73, 94);\">Package for kids aged 3 to 5 years, to check for common health issues, such as urinary infection, blood cell morphology, etc. Package also include screening of eye vision.</span></p>",
+        "price": 600000
+    },
+    {
+        "id": "3490",
+        "name": "KIDS - Wellness MCU Age 5-12 Years",
+        "description": "<p>Package include vision and colorblind test, urine test, blood glucose, cholesterol test,and blood cells morphology test</p>",
+        "price": 950000
+    },
+    {
+        "id": "15042066",
+        "name": "Liver Cancer Comprehensive ",
+        "description": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">The comprehensive liver cancer screening package combines abdominal ultrasound with tumor markers such as AFP and PIVKA II.&nbsp;</span></p>",
+        "price": 3300000
+    },
+    {
+        "id": "15042060",
+        "name": "Colorectal Cancer Comprehensive",
+        "description": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">The comprehensive colorectal cancer screening package combines colonoscopy with CEA tumor marker screening.</span>&nbsp;</p>",
+        "price": 6600000
+    },
+    {
+        "id": "15042064",
+        "name": "Gastric & Colorectal Cancer Comprehensive",
+        "description": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">The gastric &amp; colorectal cancer comprehensive screening package combines endoscopic examination with gastrointestinal tumor markers such as CEA and CA 72-4.&nbsp;</span></p>",
+        "price": 16000000
+    },
+    {
+        "id": "15042062",
+        "name": "Gastric Cancer Comprehensive ",
+        "description": "<p>The gastric cancer comprehensive screening package combines gastroscopy with CA 72-4 tumor marker screening.&nbsp;</p>",
+        "price": 9300000
+    },
+    {
+        "id": "15042068",
+        "name": "Pancreatic Cancer Comprehensive",
+        "description": "<p>The pancreatic cancer comprehensive screening package combines MRCP screening with tumor marker screening such as CA 19-9.&nbsp;</p>",
+        "price": 4900000
+    },
+    {
+        "id": "15042058",
+        "name": "Lung Cancer Comprehensive",
+        "description": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">The comprehensive lung cancer screening package combines CT Thorax scan with tumor marker CEA and Cyfra 21-1.&nbsp;</span></p>",
+        "price": 3800000
+    },
+    {
+        "id": "15042053",
+        "name": "Breast Cancer Comprehensive",
+        "description": "<p>The comprehensive breast cancer screening package combines mammography, breast ultrasound, and the CA 15-3 cancer marker.</p>",
+        "price": 3000000
+    },
+    {
+        "id": "15042071",
+        "name": "Whole Body Cancer (Male) Comprehensive",
+        "description": "<p>The comprehensive whole body cancer (male) screening package combines various imaging tests with tumor marker tests to detect the possibility of various cancers in men.&nbsp;</p>",
+        "price": 38000000
+    },
+    {
+        "id": "15042069",
+        "name": "Whole Body Cancer (Female) Comprehensive",
+        "description": "<p>The comprehensive whole body cancer (female) screening package combines various imaging tests with tumor marker tests to detect the possibility of various cancers in women.&nbsp;</p>",
+        "price": 43000000
+    },
+    {
+        "id": "7860",
+        "name": "Kartini Silver (Menopause)",
+        "description": "<p>The package includes medicines, medical services, and medical Devices</p>",
+        "price": 1500000
+    },
+    {
+        "id": "15042029",
+        "name": "Operator in Factory MCU Package",
+        "description": "<p>MCU package for Operator in Factory.</p>\n<p>The price of your MCU already includes consultation services for the results through the <em>24-Hour Doctor Chat</em>&nbsp;on the MySiloam app&nbsp;or through the official Siloam Teleconsultation WhatsApp number +62 852 1601 8181&nbsp;(<em>WhatsApp Only</em>), available Monday - Saturday, 8 AM - 10 PM. As part of this health check-up package, patients get one (1x) consultation to read the medical check-up results with a general practitioner via telechat.</p>",
+        "price": 1500000
+    },
+    {
+        "id": "15042057",
+        "name": "Reproductive Organ (Male) Comprehensive",
+        "description": "<p>The comprehensive reproductive organ (male) screening package combines ultrasound examination with PSA tumor marker examination.&nbsp;</p>",
+        "price": 4200000
+    },
+    {
+        "id": "15042055",
+        "name": "Reproductive Organ (Female) Comprehensive",
+        "description": "<p>A comprehensive reproductive organ (female) screening package combining Pap-Smear, Transvaginal Ultrasound and CA 125 cancer marker.</p>",
+        "price": 2300000
+    },
+    {
+        "id": "15042056",
+        "name": "Reproductive Organ (Female) Advanced",
+        "description": "<p><span style=\"font-family: arial, helvetica, sans-serif;\">The advanced reproductive organ (female) screening package combines Pap-Smear, Transvaginal Ultrasound, and CA 125 cancer marker. In this package, Pap-Smear is examined using the liquid base cytology method, along with HPV DNA Genotyping.&nbsp;</span></p>",
+        "price": 4700000
+    },
+    {
+        "id": "15042079",
+        "name": "PNEUMONIA VACCINATION PACKAGE PCV 15 (Vaxneuvance 15) - 1x",
+        "description": "<p>PCV-15 pneumonia vaccination can protect individuals from pneumonia infection caused by 15 strains of S. pneumoniae bacteria (1, 3, 4, 5, 6A, 6 B, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, and 33F) that can infect the respiratory tract.</p>\n<p>*) The vaccine used is Vaxneuvance 15.</p>",
+        "price": 1500000
+    },
+    {
+        "id": "15042108",
+        "name": "Combo Typhoid Vaccine + Multivitamin Package (Adult)",
+        "description": "<p>Typhoid vaccine is a type of vaccine used to prevent typhoid fever.</p>",
+        "price": 511000
+    },
+    {
+        "id": "92383",
+        "name": "Special Package - Health Screening 1 Million IDR",
+        "description": "<p>Basic screening package to detect colon cancer. Indonesia is one of the most prevalent country for Colon Cancer globally.</p>",
+        "price": 1000000
+    },
+    {
+        "id": "332",
+        "name": "Siloam GeneFit Nutrigenomics Basic",
+        "description": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Nutrigenomics examination is an examination using saliva/saliva to find out how nutrients in food interact with each other and affect gene expression in the human body. The results of the nutrigenomics examination take approximately 21 working days.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Package includes:</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Nutrigenomic examination</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Consultation with a clinical nutrition specialist</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Benefits of Nutrigenomic Test:</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Detect the risk of degenerative diseases related to nutrient metabolism such as diabetes and heart diseases</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Knowing the metabolism of nutrients in the body according to the expression of each gene; this is important in supporting the success of dietary management for weight loss</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Knowing the type of physical activity that is in accordance with the expression of each gene; this is important in supporting the success of regulating physical activity to maintain body fitness</span></p>",
+        "price": 5600000
+    },
+    {
+        "id": "15042023",
+        "name": "Siloam GeneFit Nutrigenomics Comprehensive",
+        "description": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Nutrigenomics examination is an examination using saliva/saliva to find out how nutrients in food interact with each other and affect gene expression in the human body. The results of the nutrigenomics examination take approximately 21 working days.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Body composition analysis using BIA (Bioelectrical Impedance Analysis) technology is a measurement of body composition such as fat, protein, and muscle mass with the Inbody/SECA tool.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>The packages include:</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Doctor Consultation - Nutrigenomics Result</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Nutrigenetic</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Body Analyzer (BIA)&nbsp;</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Benefits of Nutrigenomics Test:</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Detect the risk of degenerative diseases related to nutrient metabolism such as diabetes and heart disease.</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Knowing the metabolism of nutrients in the body according to each gene expression; this is important in supporting the success of dietary management for weight loss</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Knowing the type of physical activity that is in accordance with the expression of each gene; this is important in supporting the success of regulating physical activity to maintain body fitness</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Terms &amp; Conditions:<br /></strong>1. Package is applicable for private payment (not applicable for company guarantee payment or private insurance)</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. Payment is due before the examination begins. Payment is non-refundable.</span></p>",
+        "price": 5850000
+    },
+    {
+        "id": "15042024",
+        "name": "Siloam GeneFit Nutrigenomics Premium",
+        "description": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Nutrigenomic examination is an examination using saliva/saliva to find out how nutrients in food interact with each other and affect gene expression in the human body. The results of the nutrigenomic examination take approximately 21 working days.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Body composition analysis using BIA (Bioelectrical Impedance Analysis) technology is a measurement of body composition such as fat, protein, and muscle mass with the Inbody/SECA tool.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Based on the results of the two examinations, 5-day personalized meals (choose lunch or dinner) will be prepared to support your healthy lifestyle through the consumption of balanced nutritious food, which can be delivered to your home or office.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Nutrigenomics Premium Package Includes:</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Consultation with Clinical Nutrition Specialist Doctor</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Nutrigenetic Test</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Body Analyzer (BIA)&nbsp;</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- 5 Days Personalized Meals (choose lunch or dinner)&nbsp;<br />- Meal Plans</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Benefits of Nutrigenomics Test:</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Detect the risk of degenerative diseases related to nutrient metabolism such as diabetes and heart disease<br /></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Knowing the metabolism of nutrients in the body according to each gene expression; this is important in supporting the success of dietary management for weight loss</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><br />- Knowing the type of physical activity that is in accordance with the expression of each gene; this is important in supporting the success of regulating physical activity to maintain body fitness</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Terms &amp; Conditions:</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1. Package is valid for personal payment (not valid for company guarantee payment or personal insurance)</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. Payment must be paid before the examination begins. Payment is non-refundable</span></p>",
+        "price": 6300000
+    },
+    {
+        "id": "15042025",
+        "name": "Siloam GeneFit Nutrigenomics Ultimate Package",
+        "description": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Nutrigenomic examination is an examination using saliva/saliva to find out how nutrients in food interact with each other and affect gene expression in the human body. The results of the nutrigenomic examination take approximately 21 working days.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Body composition analysis using BIA (Bioelectrical Impedance Analysis) technology is a measurement of body composition such as fat, protein, and muscle mass with the Inbody/SECA tool.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Based on the results of the two examinations, 5-day personalized meals (choose lunch or dinner) will be prepared to support your healthy lifestyle through the consumption of balanced nutritious food, which can be delivered to your home or office.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Nutrigenomics Ultimate Package Includes:</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Consultation with Clinical Nutrition Specialist Doctor</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Consultation with Physical and Rehabilitation Medicine Specialist Doctor</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Nutrigenetic Test</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Body Analyzer (BIA)&nbsp;</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- 5 Days Personalized Meals (choose lunch or dinner)</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- 3x Personalized Physical Exercise with Physiotherapist</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Benefits of Nutrigenomics Test:<br /></strong>- Detect the risk of degenerative diseases related to nutrient metabolism such as diabetes and heart disease<br /></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Knowing the metabolism of nutrients in the body according to each gene expression; this is important in supporting the success of dietary management for weight loss<br /></span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">- Knowing the type of physical activity that is in accordance with the expression of each gene; this is important in supporting the success of regulating physical activity to maintain body fitness</span><br /><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Terms &amp; Conditions:<br /></strong>1. Package is applicable for private payment (not applicable for company guarantee payment or private insurance)</span><br /><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2. Payment is due before the examination begins. Payment is non-refundable</span></p>",
+        "price": 7000000
+    },
+    {
+        "id": "50928",
+        "name": "Siloam Diamond Package ",
+        "description": "<p>Comprehensive examination which includes: complete blood count, liver function, kidney function, uric acid, blood sugar, heart and lungs. This package also includes ultrasound, CT Scan, MRI-MRA, Tumor Marker, and Endosopy*</p>\n<p>*Gastrocolonoscopy examination requires additional examinations beyond the package price during the pandemic according to the relevant hospital branch.</p>\n<p>&nbsp;</p>\n<p style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\"><strong>To order multiple packages of the same product:</strong></p>\n<ol>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Add Item to cart</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Click 'Set Up Reservation' button, view the selected products, and click your name.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"6:1-6:57\">On the 'Choose Patient' page, select the name of another patient who has been registered, or click 'Add New Patient'.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"7:1-7:73\">You can add any number of patients, as needed.</li>\n</ol>",
+        "price": 26300000
+    },
+    {
+        "id": "50927",
+        "name": "Siloam Emerald  Package ",
+        "description": "<p>A comprehensive examination is recommended for &gt; 50 years of age, including complete blood count, liver function, kidney function, uric acid, blood sugar, heart, lungs, abdominal ultrasound, electrolytes and vitamin D. This package also includes a complete cardiac examination, HbA1c (average blood sugar for the last 3 months), Hepatitis C screening, tumor markers, evaluation of thyroid function, Bone Mineral Density to see if there is a risk towards osteoporosis,&nbsp; and MRI - MRA of the head to screen whether there are blockages, bleeding, or tumors in the head.</p>\n<p>&nbsp;</p>\n<p style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\"><strong>To order multiple packages of the same product:</strong></p>\n<ol>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Add Item to cart</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Click 'Set Up Reservation' button, view the selected products, and click your name.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"6:1-6:57\">On the 'Choose Patient' page, select the name of another patient who has been registered, or click 'Add New Patient'.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"7:1-7:73\">You can add any number of patients, as needed.</li>\n</ol>",
+        "price": 10400000
+    },
+    {
+        "id": "50926",
+        "name": "Siloam Platinum Package",
+        "description": "<p>Comprehensive examination includes, complete blood count, liver function, kidney function, uric acid, blood sugar, heart, lungs, plus abdominal ultrasound. This package also includes a complete cardiac examination, HbA1c (average blood sugar for the last 3 months), Hepatitis C screening, tumor markers, and evaluation of thyroid function.</p>\n<p style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\"><strong>To order multiple packages of the same product:</strong></p>\n<ol>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Add Item to cart</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"3:1-3:52\">Click 'Set Up Reservation' button, view the selected products, and click your name.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"6:1-6:57\">On the 'Choose Patient' page, select the name of another patient who has been registered, or click 'Add New Patient'.</li>\n<li style=\"line-height: 1.2;\" data-sourcepos=\"7:1-7:73\">You can add any number of patients, as needed.</li>\n</ol>",
+        "price": 9200000
+    },
+    {
+        "id": "23813",
+        "name": "Allergy Test Package 54 Parameters",
+        "description": "<p>Allergy test 54 Parameters most often found in Indonesia, including allergies to food, grass, insects, and other materials. This examination can be done at the age of 6 years and over</p>",
+        "price": 3800000
+    },
+    {
+        "id": "15042082",
+        "name": "COMBO INFLUENZA & PNEUMONIA PCV 13 Vaccine (Adult)",
+        "description": "<p>This package consists of:</p>\n<ul>\n<li>Influenza vaccination is given to protect the body from influenza virus infection, which can cause symptoms such as fever, cough, runny nose.</li>\n<li>PCV 13 vaccine protects against infection with the bacteria Streptococcus pneumoniae, which causes pneumonia and other serious illnesses</li>\n</ul>",
+        "price": 1700000
+    },
+    {
+        "id": "15042089",
+        "name": "Influenza & Pneumonia Combo Vaccination Package PCV 20 (ADULT)",
+        "description": "<p>This package consists of :</p>\n<ul>\n<li>Influenza vaccine is given to protect the body from influenza virus infection, which can cause symptoms such as fever, cough, runny nose.</li>\n<li>Prevenar20 vaccine is given to prevent invasive pneumonia, and acute otitis media caused by Streptococcus pneumoniae.</li>\n</ul>",
+        "price": 1500000
+    },
+    {
+        "id": "15042081",
+        "name": "HFMD EV71 Vaccination Package (Children)",
+        "description": "<p>HFMD EV71 is a vaccine given to prevent Hand, Foot, and Mouth Disease (HFMD) or Singapore Flu.&nbsp;</p>\n<p><strong>Benefit:</strong></p>\n<p>-Prevent the spread of the EV71 virus<br>- Reduces the risk of cases of HFMD, severe HFMD</p>\n<p><strong>This package includes:</strong><br>1. Vaccine<br>2. Doctor's Fees</p>",
+        "price": 1330000
+    },
+    {
+        "id": "15042109",
+        "name": "Meningitis Vaccine Package (Adult)",
+        "description": "<p>Adult Meningitis Vaccination for the prevention of meningococcal infection that can cause meningitis and serious infectious diseases.</p>",
+        "price": 920000
+    },
+    {
+        "id": "15042086",
+        "name": "PCV 20 Pneumonia Vaccination Package",
+        "description": "<p>Prevenar20 is an active vaccination containing Pneumococcal polysaccharide conjugate vaccine (20-valent, adsorbed), to prevent invasive pneumonia, and acute otitis media caused by Streptococcus pneumoniae.</p>\n<p>The PCV20 vaccine is the most complete pneumonia vaccine currently available, protecting the body from 20 strains of Streptococcus pneumoniae (1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, and 33F).</p>",
+        "price": 1300000
+    },
+    {
+        "id": "15042104",
+        "name": "Wellness Staycation Deluxe ARYADUTA Lippo Village Package",
+        "description": "<p><strong>Include: </strong></p>\n<ul>\n<li><strong><span data-olk-copy-source=\"MessageBody\">Deluxe Room&nbsp;</span>2D1N &amp; 2 Pack Breakfast</strong></li>\n<li><strong><span data-olk-copy-source=\"MessageBody\">Roundtrip transfer hotel-Siloam-hotel (Siloam Hospital Lippo Village)</span></strong></li>\n</ul>\n<p>Basic examinations that must be routinely checked include: complete blood count, liver function, kidney function, uric acid, blood sugar, heart, and lungs. This examination also includes abdominal ultrasound, complete heart examination, HbA1c (average blood sugar for the last 3 months), and Hepatitis C.</p>",
+        "price": 4555000
+    },
+    {
+        "id": "15042105",
+        "name": "Wellness Staycation Executive Suite ARYADUTA Lippo Village Package",
+        "description": "<p><strong>Include: </strong></p>\n<ul>\n<li><strong><span data-olk-copy-source=\"MessageBody\">2 Business Suite Room&nbsp;</span>2D1N &amp; 2 Pack Breakfast</strong></li>\n<li><strong><span data-olk-copy-source=\"MessageBody\">Roundtrip transfer hotel-Siloam-hotel (Siloam Hospital Lippo Village)</span></strong></li>\n</ul>\n<p>&nbsp;</p>\n<p>Basic examinations that must be routinely checked include: complete blood count, liver function, kidney function, uric acid, blood sugar, heart, and lungs. This examination also includes abdominal ultrasound, complete heart examination, HbA1c (average blood sugar for the last 3 months), and Hepatitis C.</p>",
+        "price": 5005000
+    },
+    {
+        "id": "156",
+        "name": "Basic Golfer Screening",
+        "description": "<p>Basic medical check-up package for golfers to screen for issues that may arise from playing golf or other conditions that may interfere with performance on the course</p>",
+        "price": 4500000
+    },
+    {
+        "id": "7005",
+        "name": "Complete Liver Screening",
+        "description": "<p>Complete liver screening examination to detect any risk of liver disease.</p>",
+        "price": 3000000
+    },
+    {
+        "id": "23998",
+        "name": "Lung Health Screening ",
+        "description": "<p>Lung health screening include: Full Blood Count, Thorax X-ray, and Spirometry.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 500000
+    },
+    {
+        "id": "22001",
+        "name": "Osteoarthritis Screening (Knee)",
+        "description": "<p>Bone and joint health screening package for seniors, especially arthritis of the knee and/or hip, including consultation with orthopedist and x-ray of the joints. This package is also applicable for those with symptoms of knee or back pain.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 449000
+    },
+    {
+        "id": "22004",
+        "name": "Osteoarthritis Screening (Hip)",
+        "description": "<p>Bone and joint health screening package for seniors, especially arthritis of the knee and/or hip, including consultation with orthopedist and x-ray of the joints. This package is also applicable for those with symptoms of knee or back pain.</p>",
+        "price": 599000
+    },
+    {
+        "id": "11027",
+        "name": "Pre Employment Basic",
+        "description": "<p>Basic screening examination for employees to ensure that those hired can work optimally according to their field of work.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 1450000
+    },
+    {
+        "id": "1011",
+        "name": "Advance Pre Marital Screening (Male)",
+        "description": "<p>Advance Pre marital screening check up or comprehensive premarital test is a series of tests that couples must do before getting married. To find out the risks of genetic diseases and infectious diseases.</p>\n<p>Complete your examination with additional male fertility hormone screening including estradiol, prolactine, testosterone, FSH</p>",
+        "price": 5000000
+    },
+    {
+        "id": "1010",
+        "name": "Advance Pre Marital Screening (Female)",
+        "description": "<p>Advance Pre marital screening check up or comprehensive premarital test is a series of tests that couples must do before getting married. To find out the risks of genetic diseases and infectious diseases.</p>\n<p>Complete your examination with additional female fertility hormone screening including estradiol, progesterone, testosterone, Anti-Mullerian Hormone (AMH)</p>",
+        "price": 6000000
+    },
+    {
+        "id": "1008",
+        "name": "Basic Pre Marital Screening (Male)",
+        "description": "<p>Basic Pre marital screening check up or basic premarital test is a series of basic tests that couples must do before getting married. This is because not everyone has a good health history. A person who appears healthy may be a carrier of the disease.</p>\n<p>Complete your examination with additional male fertility hormone screening including estradiol, prolactine, testosterone, FSH.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 3000000
+    },
+    {
+        "id": "1009",
+        "name": "Basic Pre Marital Screening (Female)",
+        "description": "<p>Basic Pre marital screening check up or basic premarital test is a series of basic tests that couples must do before getting married. This is because not everyone has a good health history. A person who appears healthy may be a carrier of the disease.</p>\n<p>Complete your examination with additional female fertility hormone screening including estradiol, progesterone, testosterone, Anti-Mullerian Hormone (AMH)</p>",
+        "price": 4400000
+    },
+    {
+        "id": "1015",
+        "name": "Pre Study Screening - Beijing",
+        "description": "<p>Health screening package for visa application to Beijing.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 1200000
+    },
+    {
+        "id": "11232",
+        "name": "Pre Study Screening - Japan",
+        "description": "<p>Health screening package for visa application to Japan.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 650000
+    },
+    {
+        "id": "11233",
+        "name": "Pre Study Screening - Germany",
+        "description": "<p>Health screening package for visa application to German.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 900000
+    },
+    {
+        "id": "1013",
+        "name": "Pre Study Screening - Malaysia",
+        "description": "<p>Health screening package for visa application to Malaysia.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 2100000
+    },
+    {
+        "id": "1016",
+        "name": "Pre Study Screening - Shanghai",
+        "description": "<p>Health screening package for visa application to Shanghai.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 2100000
+    },
+    {
+        "id": "1014",
+        "name": "Pre Study Screening - Singapore",
+        "description": "<p>Health screening package for visa application to Singapore.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 900000
+    },
+    {
+        "id": "11231",
+        "name": "Pre Study Screening - Taiwan",
+        "description": "<p>Health screening package for visa application to Taiwan.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 800000
+    },
+    {
+        "id": "4083",
+        "name": "Tuberculosis Screening for Visa - Advanced",
+        "description": "<p>Tuberculosis screening package for visa application, such as Korean Visa. This package include physical examination with Medical Check Up Doctor, Chest X-ray, IGRA Spot TB, and Health Form from country of destination.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 1550000
+    },
+    {
+        "id": "40901",
+        "name": "House Helper Health Check",
+        "description": "<p>Basic health check package for house helper / house maid, including physical examination, routine blood test, hebatitis B screening, pregnancy screening, and lung health.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 600000
+    },
+    {
+        "id": "40900",
+        "name": "Driver Health Check",
+        "description": "<p>Health examination for your family driver/chauffeur, including comprehensive physical examination, heart screening, lung disease screening, diabetes screening, and routine blood tests.</p>\n<p>Package price includes a <strong>voucher worth Rp.49,000 for doctor telechat services</strong>, which patients can receive by contacting +62 812-7122-2542 (WhatsApp Only) once the test results are available.</p>",
+        "price": 650000
+    },
+    {
+        "id": "99994",
+        "name": "HPV Vaccination for Adult (4 strain) - 1x",
+        "description": "<p>1x Adult HPV Vaccination to prevent HPV infection that can cause cervix cancer and other sexually transmitted diseases.</p>",
+        "price": 1350000
+    },
+    {
+        "id": "90908",
+        "name": "HPV Vaccination for Adult (9 strain) - 1x ",
+        "description": "<p>The 9-strain HPV vaccine offers broad-spectrum protection against <strong data-start=\"279\" data-end=\"323\">nine types of Human Papillomavirus (HPV)</strong> &mdash; including types 6, 11, 16, 18, 31, 33, 45, 52, and 58. These strains are responsible for the majority of cervical cancers, genital warts, and other HPV-related diseases.</p>",
+        "price": 2590000
+    },
+    {
+        "id": "90909",
+        "name": "HPV Vaccination for Adult (9 strain) - 3x ",
+        "description": "<p>The 9-strain HPV vaccine offers broad-spectrum protection against <strong data-start=\"279\" data-end=\"323\">nine types of Human Papillomavirus (HPV)</strong> &mdash; including types 6, 11, 16, 18, 31, 33, 45, 52, and 58. These strains are responsible for the majority of cervical cancers, genital warts, and other HPV-related diseases. Administered in <strong data-start=\"512\" data-end=\"527\">three doses</strong> over a recommended schedule.</p>",
+        "price": 7190000
+    },
+    {
+        "id": "90011",
+        "name": "Adult Influenza Vaccination - 1x ",
+        "description": "<p>Adult Influenza Vaccination protects you from the influenza virus! It is recommended to take influenza vaccine 1x (once) per year.</p>\n<p>*) Vaccination will be administered in the Medical Check Up Area.</p>\n<p>*) We use Influvac Tetra/Fluarix Tetra for the vaccine.</p>",
+        "price": 500000
+    }
+]
