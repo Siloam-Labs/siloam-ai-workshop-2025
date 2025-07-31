@@ -1,0 +1,347 @@
+[
+  {
+    "item_code": "A0001",
+    "item_name": "AQUABIDEST STERIL 1000ML (OTSU)"
+  },
+  {
+    "item_code": "B0004",
+    "item_name": "BACTESYN 1.5 GRAM INJ"
+  },
+  {
+    "item_code": "B0005",
+    "item_name": "BACTESYN 250/125MG TAB"
+  },
+  {
+    "item_code": "B0006",
+    "item_name": "BACTESYN 375MG TAB"
+  },
+  {
+    "item_code": "B0057",
+    "item_name": "BRINTELLIX VOSTIOXETINE 10MG TAB"
+  },
+  {
+    "item_code": "B0058",
+    "item_name": "BRINTELLIX VOSTIOXETINE 15MG TAB"
+  },
+  {
+    "item_code": "B0059",
+    "item_name": "BRINTELLIX VOSTIOXETINE 20MG TAB"
+  },
+  {
+    "item_code": "B0060",
+    "item_name": "BRINTELLIX VOSTIOXETINE 5MG TAB"
+  },
+  {
+    "item_code": "C0001",
+    "item_name": "CALADINE 30ML LOTION"
+  },
+  {
+    "item_code": "C0002",
+    "item_name": "CALADINE 60ML LOTION"
+  },
+  {
+    "item_code": "C0003",
+    "item_name": "CALADINE 95ML LOTION"
+  },
+  {
+    "item_code": "C0004",
+    "item_name": "CALADINE POWDER"
+  },
+  {
+    "item_code": "C0005",
+    "item_name": "CALADINE SUSPENSION"
+  },
+  {
+    "item_code": "C0046",
+    "item_name": "CALADINE 60ML LOTION"
+  },
+  {
+    "item_code": "C0047",
+    "item_name": "CALADINE 95ML LOTION"
+  },
+  {
+    "item_code": "C0048",
+    "item_name": "CALAMIN LOTION"
+  },
+  {
+    "item_code": "C0049",
+    "item_name": "CALAMIN POWDER"
+  },
+  {
+    "item_code": "C0050",
+    "item_name": "CALCIFAR PLUS TAB"
+  },
+  {
+    "item_code": "C0051",
+    "item_name": "CALCIFOS 600MG CAP"
+  },
+  {
+    "item_code": "C0052",
+    "item_name": "CALCII GLUCONAS 100MG/ML-10ML INJ"
+  },
+  {
+    "item_code": "C0053",
+    "item_name": "CALCIO FOLINATO SANDOZ 15MG TAB (SAS)"
+  },
+  {
+    "item_code": "C0054",
+    "item_name": "CALCITRIOL 0.25MCG SOFT CAP"
+  },
+  {
+    "item_code": "C0055",
+    "item_name": "CALCITRIOL 0.5MCG SOFT CAP"
+  },
+  {
+    "item_code": "C0056",
+    "item_name": "CALCIUM ACETATE (PER GRAM) POWDER"
+  },
+  {
+    "item_code": "C0057",
+    "item_name": "CALCIUM CARBONAT (CACO3) PULV"
+  },
+  {
+    "item_code": "C0058",
+    "item_name": "CALCIUM CARBONAT 1GRAM CAP"
+  },
+  
+  {
+    "item_code": "C0152",
+    "item_name": "CO-PHENYLCAINE FORTE SPRAY"
+  },
+  {
+    "item_code": "C0153",
+    "item_name": "CORALAN 5MG TAB"
+  },
+  {
+    "item_code": "C0154",
+    "item_name": "CORALAN 7,5MG FC TAB"
+  },
+  {
+    "item_code": "C0155",
+    "item_name": "CORALAN FC 5MG TAB"
+  },
+  {
+    "item_code": "C0161",
+    "item_name": "CORGA CAP (REPACK)"
+  },
+  {
+    "item_code": "C0162",
+    "item_name": "CORIFAM 450MG CAPLET"
+  },
+  {
+    "item_code": "C0163",
+    "item_name": "CORIFAM 600MG CAPLET"
+  },
+  {
+    "item_code": "C0164",
+    "item_name": "CORMEGA SOFT CAP"
+  },
+  {
+    "item_code": "C0165",
+    "item_name": "CORORA 60MG INJ"
+  },
+  {
+    "item_code": "C0166",
+    "item_name": "COROVIT CAPLET"
+  },
+  {
+    "item_code": "C0167",
+    "item_name": "COR-Q TAB"
+  },
+  {
+    "item_code": "C0168",
+    "item_name": "CORSEL 530MG TAB"
+  },
+  {
+    "item_code": "C0169",
+    "item_name": "CORSONA 4MG TAB"
+  },
+  {
+    "item_code": "C0170",
+    "item_name": "CORSONA 5MG/ML-1ML INJ"
+  },
+  {
+    "item_code": "C0171",
+    "item_name": "CORTAMINE SYR"
+  },
+  {
+    "item_code": "H0334",
+    "item_name": "HI-BONE 600MG CAPLET"
+  },
+  {
+    "item_code": "H0335",
+    "item_name": "HI-BONE ACTIVE GRAPE CHEWTAB"
+  },
+  {
+    "item_code": "H0336",
+    "item_name": "HI-BONE ACTIVE STRAWBERRY CHEW TAB"
+  },
+  {
+    "item_code": "H0337",
+    "item_name": "HI-BONE CAPLET"
+  },
+  {
+    "item_code": "H0338",
+    "item_name": "HI-D 1000 IU TAB KUNYAH"
+  },
+  {
+    "item_code": "H0339",
+    "item_name": "HI-D 1000IU TAB"
+  },
+  {
+    "item_code": "H0340",
+    "item_name": "HI-D 5000IU TAB"
+  },
+  {
+    "item_code": "H0341",
+    "item_name": "HIDONAC 5GRAM/25ML INF"
+  },
+  {
+    "item_code": "H0342",
+    "item_name": "HIDRASEC 100MG CAP"
+  },
+  {
+    "item_code": "H0343",
+    "item_name": "HILO ACTIVE VANILLA 200GRAM MILK POWDER"
+  },
+  {
+    "item_code": "H0344",
+    "item_name": "HI-MG 100MG CAP"
+  },
+  {
+    "item_code": "H0345",
+    "item_name": "HI-MG 200MG CAP"
+  },
+  {
+    "item_code": "L0051",
+    "item_name": "LIPANTHYL PENTA 145 MG"
+  },
+  {
+    "item_code": "L0052",
+    "item_name": "LIPANTHYL PENTA 200 MG"
+  },
+  {
+    "item_code": "L0053",
+    "item_name": "LIPANTHYL PENTA 300 MG"
+  },
+  {
+    "item_code": "L0054",
+    "item_name": "LIPANTHYL PENTA 400 MG"
+  },
+  {
+    "item_code": "L0055",
+    "item_name": "LIPANTHYL PENTA 600 MG"
+  },
+  {
+    "item_code": "L0056",
+    "item_name": "LIPANTHYL PENTA 800 MG"
+  },
+  {
+    "item_code": "L0057",
+    "item_name": "LIPANTHYL PENTA 1000 MG"
+  },
+  {
+    "item_code": "L0375",
+    "item_name": "LIPOMED 20%-100ML INF (REPACK)"
+  },
+  {
+    "item_code": "L0376",
+    "item_name": "LIPOMED 20%-100ML INF"
+  },
+  {
+    "item_code": "L0377",
+    "item_name": "LIPOMED 20%-100ML INJ"
+  },
+  {
+    "item_code": "L0378",
+    "item_name": "LIPOMED 20%-250ML INF"
+  },
+  {
+    "item_code": "L0379",
+    "item_name": "LIPRO TAB (REPACK)"
+  },
+  {
+    "item_code": "L0380",
+    "item_name": "LIPROLAC 2,5GRAM SACH"
+  },
+  {
+    "item_code": "L0381",
+    "item_name": "LIPROLAC BABY DROP"
+  },
+  {
+    "item_code": "L0382",
+    "item_name": "LIPROQY CAP"
+  },
+  {
+    "item_code": "M0038",
+    "item_name": "MEROPENEM TRIHYDRATE INJ 1G"
+  },
+  {
+    "item_code": "M0039",
+    "item_name": "MEROPENEM TRIHYDRATE INJ 500MG"
+  },
+  {
+    "item_code": "M0040",
+    "item_name": "METFORMIN 500MG TAB"
+  },
+  {
+    "item_code": "M0041",
+    "item_name": "METFORMIN 850MG TAB"
+  },
+  {
+    "item_code": "M0042",
+    "item_name": "METFORMIN 1000MG TAB"
+  },
+  {
+    "item_code": "M0043",
+    "item_name": "METFORMIN HCL 500MG TAB"
+  },
+  {
+    "item_code": "M0044",
+    "item_name": "METFORMIN HCL 850MG TAB"
+  },
+  {
+    "item_code": "M0045",
+    "item_name": "METFORMIN HCL 1000MG TAB"
+  },
+  {
+    "item_code": "N0024",
+    "item_name": "NARFOZ INJ"
+  },
+  {
+    "item_code": "N0025",
+    "item_name": "NARFOZ 8 MG / 4 ML INJ"
+  },
+  {
+    "item_code": "N0429",
+    "item_name": "NEXAVAR 200MG TAB"
+  },
+  {
+    "item_code": "N0430",
+    "item_name": "NEXAVAR SORAVENIB 200MG TAB"
+  },
+  {
+    "item_code": "N0431",
+    "item_name": "NEXIUM 10MG SACH"
+  },
+  {
+    "item_code": "N0432",
+    "item_name": "NEXIUM 20MG TAB"
+  },
+  {
+    "item_code": "N0433",
+    "item_name": "NEXIUM 40MG INJ"
+  },
+  {
+    "item_code": "N0435",
+    "item_name": "NEXURIN 100MG TAB"
+  },
+  {
+    "item_code": "N0436",
+    "item_name": "NIACEF 4% 15GRAM GEL"
+  },
+  {
+    "item_code": "N0437",
+    "item_name": "NICAFER 1MG INJ"
+  }
+]
